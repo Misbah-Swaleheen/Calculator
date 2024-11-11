@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.calculator{
+  border: 1px solid #e7e6e9;
+  border-radius: 6px;
+  box-shadow: 5px 5px 12px 1px #3333;
+  width: 450px;
+  margin-inline: auto;
+}
+
+.display{
+  border: 1px solid #495067;
+  border-radius: 5px;
+  background-color: #495067;
+}
+
+.inside{
+  margin: 5px 10px;
+  height: 50px;
+  border-radius: 2px;
+  box-shadow: inset 4px 4px 2px 0px #9999;
+  background-color: #d5e3e4;
+  text-align: end;
+  font-size: 28px;
+  font-family: "math";
+  line-height: 68px;
+  padding-right: 14px;
+}
+
+.btn{
+  margin: 10px;
+  padding: 10px 32px !important;
+}
